@@ -206,3 +206,7 @@ div.video > iframe{
 
 
 }
+
+picture{
+    width: 100%;
+}
