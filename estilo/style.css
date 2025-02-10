@@ -43,7 +43,7 @@
         background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
         min-height: 150px;
         text-align: center;
-        padding: 20px;
+        padding: 0px;
     }
 
     header > h1{
@@ -62,7 +62,7 @@
         max-width: 500px;
         margin: auto;
         text-shadow:  2px 0px rgba(0, 0, 0, 0.342);
-        margin-bottom: 30px;
+        padding-bottom: 10px;
     }
 
     header > nav{
